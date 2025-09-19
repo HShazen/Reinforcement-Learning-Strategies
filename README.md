@@ -1,8 +1,9 @@
 # Reinforcement Learning Strategies
 
 Reinforcement learning is a class of machine learning (ML), where the agent learn by interacting with it environement allowing it to improve over time.  
-
-<img width="2168" height="980" alt="image" src="https://github.com/user-attachments/assets/fdf017e5-e37e-44e0-b34a-33c36c03548d" />
+<p align="center">
+  <img src="./RL_diagram.svg" alt="Basic reinforcement learning scenario" width="500"/>
+</p>
 
 This repository contain different implementation of reinforcement learning methods on the `"FrozenLake-v1"` game from the Python library **Gymnasium**.  
 Here is a list of all the implemented methods:
